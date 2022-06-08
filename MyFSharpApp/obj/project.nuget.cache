@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w17j8F7yZ697McPgjhM8u41hKI9i9yX3vXML6ZMcQwqgDRHEr4thAWHCn4lGMlyk+co319lk8e0X2CJ5d7bRdg==",
+  "success": true,
+  "projectFilePath": "/Users/soojeen/Desktop/fsharp/MyFSharpApp/MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/soojeen/.nuget/packages/fsharp.core/6.0.2/fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
