@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HAnq9OhW/LG+XBC7ZLb45ArFGiI+Dp351Z506Iz35+zOCd9G54O7yHhnUHvySaHGLuLQXwkfcG/pOkolaO64nA==",
+  "success": true,
+  "projectFilePath": "/Users/soojeen/Desktop/QUT/fsharp/HelloWrold/HelloWorld/HelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "/Users/soojeen/.nuget/packages/fsharp.core/6.0.2/fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
